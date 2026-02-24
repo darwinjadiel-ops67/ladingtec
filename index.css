@@ -330,7 +330,13 @@ gap: 2rem;
 
 }
 
+.card h3{
+    transition: 0.5s ease-in-out;
+}
 
+.card:hover h3{
+    transform: scale(1.2);
+}
 
 .card-img {
 
@@ -931,5 +937,6 @@ html{
     padding:1rem 2rem;
 
 }
+
 
 }
