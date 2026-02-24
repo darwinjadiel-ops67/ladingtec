@@ -328,10 +328,10 @@ gap: 2rem;
 
     box-shadow: 0 6px 20px rgb(113, 194, 198);
 
-}
-
 .card h3{
+
     transition: 0.5s ease-in-out;
+
 }
 
 .card:hover h3{
@@ -940,3 +940,4 @@ html{
 
 
 }
+
