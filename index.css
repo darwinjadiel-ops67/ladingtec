@@ -327,6 +327,7 @@ gap: 2rem;
 .card:hover{
 
     box-shadow: 0 6px 20px rgb(113, 194, 198);
+}
 
 .card h3{
 
@@ -940,4 +941,5 @@ html{
 
 
 }
+
 
